@@ -12,7 +12,7 @@ User Story #3: My portfolio should have a projects section with an id of project
 
 User Story #4: The projects section should contain at least one element with a class of project-tile to hold a project.<!--done-->
 
-User Story #5: The projects section should contain at least one link to a project.
+User Story #5: The projects section should contain at least one link to a project. <!--done-->
 
 User Story #6: My portfolio should have a navbar with an id of navbar.<!--done-->
 
